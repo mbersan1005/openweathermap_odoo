@@ -1,4 +1,4 @@
-module_info = {
+{
     'name': 'OpenWeatherMap Integration',
     'version': '1.0',
     'summary': 'Integración con la API de OpenWeatherMap',
@@ -10,8 +10,8 @@ module_info = {
         'security/ir.model.access.csv',
         'views/weather_view.xml',
     ],
+    'icon': '/openweathermap_odoo/ static/description/icon57.png',
     'installable': True,
     'application': True,
     'license': 'LGPL-3',
-    'icon': ['/openweathermap_odoo/static/description/icon57.png'],
 }
