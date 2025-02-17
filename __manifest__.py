@@ -10,7 +10,7 @@
         'security/ir.model.access.csv',
         'views/weather_view.xml',
     ],
-    'icon': '/openweathermap_odoo/ static/description/icon57.png',
+    'icon': '/openweathermap_odoo/static/description/icon57.png',
     'installable': True,
     'application': True,
     'license': 'LGPL-3',
